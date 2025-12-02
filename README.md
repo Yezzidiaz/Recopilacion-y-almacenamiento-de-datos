@@ -1,9 +1,6 @@
 # 🚖 Recopilación y Almacenamiento de Datos
 
-> Análisis de compañías de taxis, barrios con más finalizaciones de viaje  
-> y efecto de las condiciones climáticas en la duración de los trayectos.  
-
----
+> Análisis de compañías de taxis, barrios con más finalizaciones de viaje y efecto de las condiciones climáticas en la duración de los trayectos.  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
